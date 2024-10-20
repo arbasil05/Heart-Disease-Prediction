@@ -5,7 +5,7 @@ This project aims to predict the likelihood of heart disease in patients using m
 Heart disease is a leading cause of death worldwide. Early prediction can help in timely intervention. This project uses patient data to predict the probability of heart disease.
 
 ## Data
-The dataset used in this project is derived from [https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset]. It includes features such as age, sex, blood pressure, cholesterol levels, and other health indicators.
+The dataset that is used in this project is derived from [https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset]. It includes features such as age, sex, blood pressure, cholesterol levels, and other health indicators.
 
 ## Output:
 ### Home Page : 
